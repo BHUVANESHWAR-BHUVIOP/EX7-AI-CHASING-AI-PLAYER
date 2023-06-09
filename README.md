@@ -117,7 +117,7 @@ Blackboard Value As Vector input.
 
 
 ### Game Mode:
-![244051776-eb54159c-074e-4c0b-b987-164275fdea43](https://github.com/Aashima02/AI-Chasing/assets/93427086/ca34b75b-f144-445a-a689-8475ce1e0756)
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX7-AI-CHASING-AI-PLAYER/assets/94155099/894b196c-2ba9-4035-aeb9-c6c8475c2e24)
 
 ## RESULT:
 
